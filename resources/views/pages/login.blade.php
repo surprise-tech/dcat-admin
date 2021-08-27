@@ -1,4 +1,8 @@
 <style>
+    .login-page {
+        background-image: url("../images/login-bg.jpg") !important;
+        background-size: 100% 100% !important;
+    }
     .login-box {
         margin-top: -10rem;
         padding: 5px;
